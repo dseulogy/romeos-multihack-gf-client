@@ -1,0 +1,1408 @@
+==[ RoM instruction pointers | 10/07/10 ]==
+Player Base Pointer:...............0x9B323C
+No Fall Function Pointer:..........0x449399
+Swim Hack Function Pointer:........0x449800
+Zoom Out Limit Function Pointer:...0x61C8BE
+GodSight Function Pointer #1:......0x43DB23
+GodSight Function Pointer #2:......0x43DBD1
+Stealth Mode Function Pointer:.....0x85D3AE
+Climb Angle Static Address:........0x9615EC
+==[ Searching took 1.5 seconds in total ]==
+
+==[ RoM instruction pointers | 10/08/10 ]==
+Player Base Pointer:...............0x9B323C
+No Fall Function Pointer:..........0x449399
+Swim Hack Function Pointer:........0x449800
+Zoom Out Limit Function Pointer:...0x61C8BE
+GodSight Function Pointer #1:......0x43DB23
+GodSight Function Pointer #2:......0x43DBD1
+Stealth Mode Function Pointer:.....0x85D3AE
+Climb Angle Static Address:........0x9615EC
+==[ Searching took 1.5 seconds in total ]==
+
+==[ RoM instruction pointers | 10/11/10 ]==
+Player Base Pointer:...............0x9B323C
+No Fall Function Pointer:..........0x449399
+Swim Hack Function Pointer:........0x449800
+Zoom Out Limit Function Pointer:...0x61C8BE
+GodSight Function Pointer #1:......0x43DB23
+GodSight Function Pointer #2:......0x43DBD1
+Stealth Mode Function Pointer:.....0x85D3AE
+Climb Angle Static Address:........0x9615EC
+==[ Searching took 1.5 seconds in total ]==
+
+==[ RoM instruction pointers | 10/11/10 ]==
+Player Base Pointer:...............0x9B323C
+No Fall Function Pointer:..........0x449399
+Swim Hack Function Pointer:........0x449800
+Zoom Out Limit Function Pointer:...0x61C8BE
+GodSight Function Pointer #1:......0x43DB23
+GodSight Function Pointer #2:......0x43DBD1
+Stealth Mode Function Pointer:.....0x85D3AE
+Climb Angle Static Address:........0x9615EC
+==[ Searching took 1.5 seconds in total ]==
+
+==[ RoM instruction pointers | 10/12/10 ]==
+Player Base Pointer:...............0x9B323C
+No Fall Function Pointer:..........0x449399
+Swim Hack Function Pointer:........0x449800
+Zoom Out Limit Function Pointer:...0x61C8BE
+GodSight Function Pointer #1:......0x43DB23
+GodSight Function Pointer #2:......0x43DBD1
+Stealth Mode Function Pointer:.....0x85D3AE
+Climb Angle Static Address:........0x9615EC
+==[ Searching took 1.5 seconds in total ]==
+
+==[ RoM instruction pointers | 02/20/12 ]==
+Player Base Pointer:...............0x9D12E4
+No Fall Function Pointer:..........0x44E739
+Swim Hack Function Pointer:........0x44EBA0
+Zoom Out Limit Function Pointer:...0x62904E
+GodSight Function Pointer #1:......0x43F4B3
+GodSight Function Pointer #2:......0x43F561
+Stealth Mode Function Pointer:.....0x878F19
+Climb Angle Static Address:........0x97EB94
+==[ Searching took 2.2 seconds in total ]==
+
+==[ RoM instruction pointers | 02/20/12 ]==
+Player Base Pointer:...............0x9D12E4
+No Fall Function Pointer:..........0x44E739
+Swim Hack Function Pointer:........0x44EBA0
+Zoom Out Limit Function Pointer:...0x62904E
+GodSight Function Pointer #1:......0x43F4B3
+GodSight Function Pointer #2:......0x43F561
+Stealth Mode Function Pointer:.....0x878F19
+Climb Angle Static Address:........0x97EB94
+==[ Searching took 2.2 seconds in total ]==
+
+==[ RoM instruction pointers | 02/20/12 ]==
+Player Base Pointer:...............0x9D12E4
+No Fall Function Pointer:..........0x44E739
+Swim Hack Function Pointer:........0x44EBA0
+Zoom Out Limit Function Pointer:...0x62904E
+GodSight Function Pointer #1:......0x43F4B3
+GodSight Function Pointer #2:......0x43F561
+Stealth Mode Function Pointer:.....0x878F19
+Climb Angle Static Address:........0x97EB94
+==[ Searching took 2.2 seconds in total ]==
+
+==[ RoM instruction pointers | 02/20/12 ]==
+Player Base Pointer:...............0x9D12E4
+No Fall Function Pointer:..........0x44E739
+Swim Hack Function Pointer:........0x44EBA0
+Zoom Out Limit Function Pointer:...0x62904E
+GodSight Function Pointer #1:......0x43F4B3
+GodSight Function Pointer #2:......0x43F561
+Stealth Mode Function Pointer:.....0x878F19
+Climb Angle Static Address:........0x97EB94
+==[ Searching took 2.2 seconds in total ]==
+
+==[ RoM instruction pointers | 02/20/12 ]==
+Player Base Pointer:...............0x9D12E4
+No Fall Function Pointer:..........0x44E739
+Swim Hack Function Pointer:........0x44EBA0
+Zoom Out Limit Function Pointer:...0x62904E
+GodSight Function Pointer #1:......0x43F4B3
+GodSight Function Pointer #2:......0x43F561
+Stealth Mode Function Pointer:.....0x878F19
+Climb Angle Static Address:........0x97EB94
+==[ Searching took 2.2 seconds in total ]==
+
+==[ RoM instruction pointers | 06/10/12 ]==
+Player Base Pointer:...............0x9D22EC
+No Fall Function Pointer:..........0x44E1A9
+Swim Hack Function Pointer:........0x44E610
+Zoom Out Limit Function Pointer:...0x628AAE
+GodSight Function Pointer #1:......0x43EFB3
+GodSight Function Pointer #2:......0x43F061
+Stealth Mode Function Pointer:.....0x879253
+Climb Angle Static Address:........0x97FE64
+==[ Searching took 2.3 seconds in total ]==
+
+==[ RoM instruction pointers | 06/10/12 ]==
+Player Base Pointer:...............0x9D22EC
+No Fall Function Pointer:..........0x44E1A9
+Swim Hack Function Pointer:........0x44E610
+Zoom Out Limit Function Pointer:...0x628AAE
+GodSight Function Pointer #1:......0x43EFB3
+GodSight Function Pointer #2:......0x43F061
+Stealth Mode Function Pointer:.....0x879253
+Climb Angle Static Address:........0x97FE64
+==[ Searching took 2.9 seconds in total ]==
+
+==[ RoM instruction pointers | 06/16/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.4 seconds in total ]==
+
+==[ RoM instruction pointers | 06/17/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.2 seconds in total ]==
+
+==[ RoM instruction pointers | 06/18/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.9 seconds in total ]==
+
+==[ RoM instruction pointers | 06/18/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.4 seconds in total ]==
+
+==[ RoM instruction pointers | 06/18/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.6 seconds in total ]==
+
+==[ RoM instruction pointers | 06/18/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.5 seconds in total ]==
+
+==[ RoM instruction pointers | 06/21/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.7 seconds in total ]==
+
+==[ RoM instruction pointers | 06/21/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.6 seconds in total ]==
+
+==[ RoM instruction pointers | 06/21/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.3 seconds in total ]==
+
+==[ RoM instruction pointers | 06/21/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.5 seconds in total ]==
+
+==[ RoM instruction pointers | 06/22/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.4 seconds in total ]==
+
+==[ RoM instruction pointers | 06/22/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.9 seconds in total ]==
+
+==[ RoM instruction pointers | 06/22/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.9 seconds in total ]==
+
+==[ RoM instruction pointers | 06/22/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.9 seconds in total ]==
+
+==[ RoM instruction pointers | 06/22/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.4 seconds in total ]==
+
+==[ RoM instruction pointers | 06/23/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.7 seconds in total ]==
+
+==[ RoM instruction pointers | 06/23/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.5 seconds in total ]==
+
+==[ RoM instruction pointers | 06/23/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.4 seconds in total ]==
+
+==[ RoM instruction pointers | 06/24/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.8 seconds in total ]==
+
+==[ RoM instruction pointers | 06/24/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.2 seconds in total ]==
+
+==[ RoM instruction pointers | 06/24/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.0 seconds in total ]==
+
+==[ RoM instruction pointers | 06/25/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.3 seconds in total ]==
+
+==[ RoM instruction pointers | 06/25/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.3 seconds in total ]==
+
+==[ RoM instruction pointers | 06/25/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.2 seconds in total ]==
+
+==[ RoM instruction pointers | 06/25/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.4 seconds in total ]==
+
+==[ RoM instruction pointers | 06/25/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.5 seconds in total ]==
+
+==[ RoM instruction pointers | 06/25/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.3 seconds in total ]==
+
+==[ RoM instruction pointers | 06/25/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.7 seconds in total ]==
+
+==[ RoM instruction pointers | 06/25/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.7 seconds in total ]==
+
+==[ RoM instruction pointers | 06/26/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.0 seconds in total ]==
+
+==[ RoM instruction pointers | 06/26/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.8 seconds in total ]==
+
+==[ RoM instruction pointers | 06/26/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.0 seconds in total ]==
+
+==[ RoM instruction pointers | 06/28/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 7.0 seconds in total ]==
+
+==[ RoM instruction pointers | 06/28/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.4 seconds in total ]==
+
+==[ RoM instruction pointers | 06/28/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.0 seconds in total ]==
+
+==[ RoM instruction pointers | 06/29/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.7 seconds in total ]==
+
+==[ RoM instruction pointers | 06/29/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.8 seconds in total ]==
+
+==[ RoM instruction pointers | 06/29/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.1 seconds in total ]==
+
+==[ RoM instruction pointers | 06/30/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.4 seconds in total ]==
+
+==[ RoM instruction pointers | 06/30/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.8 seconds in total ]==
+
+==[ RoM instruction pointers | 07/01/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.0 seconds in total ]==
+
+==[ RoM instruction pointers | 07/01/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.9 seconds in total ]==
+
+==[ RoM instruction pointers | 07/01/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.5 seconds in total ]==
+
+==[ RoM instruction pointers | 07/01/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 2.6 seconds in total ]==
+
+==[ RoM instruction pointers | 07/02/12 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 3.2 seconds in total ]==
+
+==[ RoM instruction pointers | 01/19/07 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 5.7 seconds in total ]==
+
+==[ RoM instruction pointers | 01/30/07 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 5.6 seconds in total ]==
+
+==[ RoM instruction pointers | 01/30/07 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 5.9 seconds in total ]==
+
+==[ RoM instruction pointers | 02/02/07 ]==
+Player Base Pointer:...............0x9D84BC
+No Fall Function Pointer:..........0x44D929
+Swim Hack Function Pointer:........0x44DD90
+Zoom Out Limit Function Pointer:...0x62AD3E
+GodSight Function Pointer #1:......0x43E703
+GodSight Function Pointer #2:......0x43E7B1
+Stealth Mode Function Pointer:.....0x87EF73
+Climb Angle Static Address:........0x984D34
+==[ Searching took 16.1 seconds in total ]==
+
+==[ RoM instruction pointers | 08/15/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 10.5 seconds in total ]==
+
+==[ RoM instruction pointers | 08/15/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 5.7 seconds in total ]==
+
+==[ RoM instruction pointers | 08/16/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 8.1 seconds in total ]==
+
+==[ RoM instruction pointers | 08/17/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 6.4 seconds in total ]==
+
+==[ RoM instruction pointers | 08/18/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 7.9 seconds in total ]==
+
+==[ RoM instruction pointers | 08/19/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 7.1 seconds in total ]==
+
+==[ RoM instruction pointers | 08/20/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 6.2 seconds in total ]==
+
+==[ RoM instruction pointers | 08/21/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 8.9 seconds in total ]==
+
+==[ RoM instruction pointers | 08/22/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 7.2 seconds in total ]==
+
+==[ RoM instruction pointers | 08/23/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 8.0 seconds in total ]==
+
+==[ RoM instruction pointers | 08/23/12 ]==
+Player Base Pointer:...............0x9D94AC
+No Fall Function Pointer:..........0x44D4E9
+Swim Hack Function Pointer:........0x44D950
+Zoom Out Limit Function Pointer:...0x62BA2E
+GodSight Function Pointer #1:......0x43E2E3
+GodSight Function Pointer #2:......0x43E391
+Stealth Mode Function Pointer:.....0x87F643
+Climb Angle Static Address:........0x985E8C
+==[ Searching took 6.0 seconds in total ]==
+
+==[ RoM instruction pointers | 08/29/12 ]==
+Player Base Pointer:...............0x9D94B4
+No Fall Function Pointer:..........0x44D6F9
+Swim Hack Function Pointer:........0x44DB60
+Zoom Out Limit Function Pointer:...0x62B76E
+GodSight Function Pointer #1:......0x43E4A3
+GodSight Function Pointer #2:......0x43E551
+Stealth Mode Function Pointer:.....0x87FAF3
+Climb Angle Static Address:........0x985F3C
+==[ Searching took 5.5 seconds in total ]==
+
+==[ RoM instruction pointers | 08/30/12 ]==
+Player Base Pointer:...............0x9D94B4
+No Fall Function Pointer:..........0x44D6F9
+Swim Hack Function Pointer:........0x44DB60
+Zoom Out Limit Function Pointer:...0x62B76E
+GodSight Function Pointer #1:......0x43E4A3
+GodSight Function Pointer #2:......0x43E551
+Stealth Mode Function Pointer:.....0x87FAF3
+Climb Angle Static Address:........0x985F3C
+==[ Searching took 6.1 seconds in total ]==
+
+==[ RoM instruction pointers | 09/01/12 ]==
+Player Base Pointer:...............0x9D94B4
+No Fall Function Pointer:..........0x44D6F9
+Swim Hack Function Pointer:........0x44DB60
+Zoom Out Limit Function Pointer:...0x62B76E
+GodSight Function Pointer #1:......0x43E4A3
+GodSight Function Pointer #2:......0x43E551
+Stealth Mode Function Pointer:.....0x87FAF3
+Climb Angle Static Address:........0x985F3C
+==[ Searching took 6.5 seconds in total ]==
+
+==[ RoM instruction pointers | 09/02/12 ]==
+Player Base Pointer:...............0x9D94B4
+No Fall Function Pointer:..........0x44D6F9
+Swim Hack Function Pointer:........0x44DB60
+Zoom Out Limit Function Pointer:...0x62B76E
+GodSight Function Pointer #1:......0x43E4A3
+GodSight Function Pointer #2:......0x43E551
+Stealth Mode Function Pointer:.....0x87FAF3
+Climb Angle Static Address:........0x985F3C
+==[ Searching took 8.0 seconds in total ]==
+
+==[ RoM instruction pointers | 09/03/12 ]==
+Player Base Pointer:...............0x9D94B4
+No Fall Function Pointer:..........0x44D6F9
+Swim Hack Function Pointer:........0x44DB60
+Zoom Out Limit Function Pointer:...0x62B76E
+GodSight Function Pointer #1:......0x43E4A3
+GodSight Function Pointer #2:......0x43E551
+Stealth Mode Function Pointer:.....0x87FAF3
+Climb Angle Static Address:........0x985F3C
+==[ Searching took 6.2 seconds in total ]==
+
+==[ RoM instruction pointers | 09/06/12 ]==
+Player Base Pointer:...............0x9D94B4
+No Fall Function Pointer:..........0x44D6F9
+Swim Hack Function Pointer:........0x44DB60
+Zoom Out Limit Function Pointer:...0x62B76E
+GodSight Function Pointer #1:......0x43E4A3
+GodSight Function Pointer #2:......0x43E551
+Stealth Mode Function Pointer:.....0x87FAF3
+Climb Angle Static Address:........0x985F3C
+==[ Searching took 6.3 seconds in total ]==
+
+==[ RoM instruction pointers | 09/17/12 ]==
+Player Base Pointer:...............0x9D94B4
+No Fall Function Pointer:..........0x44D6F9
+Swim Hack Function Pointer:........0x44DB60
+Zoom Out Limit Function Pointer:...0x62B76E
+GodSight Function Pointer #1:......0x43E4A3
+GodSight Function Pointer #2:......0x43E551
+Stealth Mode Function Pointer:.....0x87FAF3
+Climb Angle Static Address:........0x985F3C
+==[ Searching took 5.9 seconds in total ]==
+
+==[ RoM instruction pointers | 09/18/12 ]==
+Player Base Pointer:...............0x9D94B4
+No Fall Function Pointer:..........0x44D6F9
+Swim Hack Function Pointer:........0x44DB60
+Zoom Out Limit Function Pointer:...0x62B76E
+GodSight Function Pointer #1:......0x43E4A3
+GodSight Function Pointer #2:......0x43E551
+Stealth Mode Function Pointer:.....0x87FAF3
+Climb Angle Static Address:........0x985F3C
+==[ Searching took 5.7 seconds in total ]==
+
+==[ RoM instruction pointers | 09/24/12 ]==
+Player Base Pointer:...............0x9D94B4
+No Fall Function Pointer:..........0x44D6F9
+Swim Hack Function Pointer:........0x44DB60
+Zoom Out Limit Function Pointer:...0x62B76E
+GodSight Function Pointer #1:......0x43E4A3
+GodSight Function Pointer #2:......0x43E551
+Stealth Mode Function Pointer:.....0x87FAF3
+Climb Angle Static Address:........0x985F3C
+==[ Searching took 6.5 seconds in total ]==
+
+==[ RoM instruction pointers | 09/26/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 5.7 seconds in total ]==
+
+==[ RoM instruction pointers | 09/26/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 6.1 seconds in total ]==
+
+==[ RoM instruction pointers | 09/26/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 8.2 seconds in total ]==
+
+==[ RoM instruction pointers | 10/01/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 5.4 seconds in total ]==
+
+==[ RoM instruction pointers | 10/01/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 7.3 seconds in total ]==
+
+==[ RoM instruction pointers | 10/02/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 6.4 seconds in total ]==
+
+==[ RoM instruction pointers | 10/06/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 5.7 seconds in total ]==
+
+==[ RoM instruction pointers | 10/09/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 5.9 seconds in total ]==
+
+==[ RoM instruction pointers | 10/12/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 5.4 seconds in total ]==
+
+==[ RoM instruction pointers | 10/13/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 5.5 seconds in total ]==
+
+==[ RoM instruction pointers | 10/13/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 7.7 seconds in total ]==
+
+==[ RoM instruction pointers | 10/14/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 5.6 seconds in total ]==
+
+==[ RoM instruction pointers | 10/14/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 5.6 seconds in total ]==
+
+==[ RoM instruction pointers | 10/15/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 6.3 seconds in total ]==
+
+==[ RoM instruction pointers | 10/19/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 7.6 seconds in total ]==
+
+==[ RoM instruction pointers | 10/19/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 5.3 seconds in total ]==
+
+==[ RoM instruction pointers | 10/20/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 6.7 seconds in total ]==
+
+==[ RoM instruction pointers | 10/20/12 ]==
+Player Base Pointer:...............0x9DA4BC
+No Fall Function Pointer:..........0x44D241
+Swim Hack Function Pointer:........0x44D6A8
+Zoom Out Limit Function Pointer:...0x62A11E
+GodSight Function Pointer #1:......0x43DF63
+GodSight Function Pointer #2:......0x43E011
+Stealth Mode Function Pointer:.....0x880A63
+Climb Angle Static Address:........0x986F8C
+==[ Searching took 6.0 seconds in total ]==
+
+==[ RoM instruction pointers | 11/14/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 5.3 seconds in total ]==
+
+==[ RoM instruction pointers | 11/15/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 6.2 seconds in total ]==
+
+==[ RoM instruction pointers | 11/15/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 7.4 seconds in total ]==
+
+==[ RoM instruction pointers | 11/16/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 5.5 seconds in total ]==
+
+==[ RoM instruction pointers | 11/16/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 6.8 seconds in total ]==
+
+==[ RoM instruction pointers | 11/18/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 5.4 seconds in total ]==
+
+==[ RoM instruction pointers | 11/18/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 5.4 seconds in total ]==
+
+==[ RoM instruction pointers | 11/19/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 8.2 seconds in total ]==
+
+==[ RoM instruction pointers | 11/19/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 7.3 seconds in total ]==
+
+==[ RoM instruction pointers | 11/20/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 7.1 seconds in total ]==
+
+==[ RoM instruction pointers | 11/20/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 5.7 seconds in total ]==
+
+==[ RoM instruction pointers | 11/20/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880F26
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 5.8 seconds in total ]==
+
+==[ RoM instruction pointers | 11/20/12 ]==
+Player Base Pointer:...............0x9DA4DC
+No Fall Function Pointer:..........0x44D0C1
+Swim Hack Function Pointer:........0x44D528
+Zoom Out Limit Function Pointer:...0x62B19E
+GodSight Function Pointer #1:......0x43DDB3
+GodSight Function Pointer #2:......0x43DE61
+Stealth Mode Function Pointer:.....0x880EF3
+Climb Angle Static Address:........0x986EF4
+==[ Searching took 5.5 seconds in total ]==
+
+==[ RoM instruction pointers | 11/28/12 ]==
+Player Base Pointer:...............0x9DC4DC
+No Fall Function Pointer:..........0x44D3F1
+Swim Hack Function Pointer:........0x44D858
+Zoom Out Limit Function Pointer:...0x62C9BE
+GodSight Function Pointer #1:......0x43E113
+GodSight Function Pointer #2:......0x43E1C1
+Stealth Mode Function Pointer:.....0x882CF3
+Climb Angle Static Address:........0x988F7C
+==[ Searching took 5.5 seconds in total ]==
+
+==[ RoM instruction pointers | 12/07/12 ]==
+Player Base Pointer:...............0x9DC4DC
+No Fall Function Pointer:..........0x44D3F1
+Swim Hack Function Pointer:........0x44D858
+Zoom Out Limit Function Pointer:...0x62C9BE
+GodSight Function Pointer #1:......0x43E113
+GodSight Function Pointer #2:......0x43E1C1
+Stealth Mode Function Pointer:.....0x882CF3
+Climb Angle Static Address:........0x988F7C
+==[ Searching took 5.9 seconds in total ]==
+
+==[ RoM instruction pointers | 03/30/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 8.2 seconds in total ]==
+
+==[ RoM instruction pointers | 04/01/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 12.2 seconds in total ]==
+
+==[ RoM instruction pointers | 04/04/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 6.9 seconds in total ]==
+
+==[ RoM instruction pointers | 04/05/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.5 seconds in total ]==
+
+==[ RoM instruction pointers | 04/05/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.6 seconds in total ]==
+
+==[ RoM instruction pointers | 04/06/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.6 seconds in total ]==
+
+==[ RoM instruction pointers | 04/06/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.6 seconds in total ]==
+
+==[ RoM instruction pointers | 04/06/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.6 seconds in total ]==
+
+==[ RoM instruction pointers | 04/06/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.6 seconds in total ]==
+
+==[ RoM instruction pointers | 04/06/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.6 seconds in total ]==
+
+==[ RoM instruction pointers | 04/07/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.7 seconds in total ]==
+
+==[ RoM instruction pointers | 04/07/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.6 seconds in total ]==
+
+==[ RoM instruction pointers | 04/08/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.6 seconds in total ]==
+
+==[ RoM instruction pointers | 04/08/13 ]==
+Player Base Pointer:...............0x9DD4E4
+No Fall Function Pointer:..........0x44D721
+Swim Hack Function Pointer:........0x44DB88
+Zoom Out Limit Function Pointer:...0x62A8FE
+GodSight Function Pointer #1:......0x43E413
+GodSight Function Pointer #2:......0x43E4C1
+Stealth Mode Function Pointer:.....0x883183
+Climb Angle Static Address:........0x98A174
+==[ Searching took 1.6 seconds in total ]==
+
